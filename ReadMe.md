@@ -18,7 +18,7 @@ Vous devez voir l'URL de votre fork (`origin`).
 
 ## 4. Ajouter le dépôt original comme remote upstream
 
-    git remote add upstream https://github.com/thom1100/GitHub_assignement
+    git remote add upstream git@github.com:thom1100/GitHub_assignement.git
 
 ## 5. Vérifier à nouveau les remotes
 
